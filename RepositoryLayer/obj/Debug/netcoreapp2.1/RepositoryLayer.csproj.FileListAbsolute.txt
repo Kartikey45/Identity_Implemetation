@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\RepositoryLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.deps.json
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\RepositoryLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.runtimeconfig.json
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\RepositoryLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\RepositoryLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.dll
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\RepositoryLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.pdb
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\RepositoryLayer\bin\Debug\netcoreapp2.1\CommonLayer.dll
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\RepositoryLayer\bin\Debug\netcoreapp2.1\CommonLayer.pdb
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.dll
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.pdb
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.deps.json
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.dll
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.pdb
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.dll
+C:\Users\Hp\source\repos\Demo_Project_for_Identity_Implementation\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.pdb
